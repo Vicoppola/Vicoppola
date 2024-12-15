@@ -9,7 +9,8 @@
 - 💻 Aluno quase se formado em Desenvolvimento de Sistemas na ETEC Camargo Aranha;
 - 💡 Sou voltado ao Back-end, mas tive muito contato com o Front-end;
 - 📚 Tenho tomado estudos sobre técnicas e desenvolvimento voltadas para IA.
-- ⚙ Ultimamente tenho dado inicio a projetos variados desde recriação variadas até ferramentas de uso rápido (geralmente em Python)
+- ⚙ Ultimamente tenho dado inicio a projetos variados desde recriação variadas até ferramentas de uso rápido
+(geralmente em Python)
 
 ---
 
